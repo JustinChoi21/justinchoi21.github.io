@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gemspec
 
 group :test do
-  gem "html-proofer", "~> 3.18"
+  gem "html-proofer", "~> 5.0"
 end
