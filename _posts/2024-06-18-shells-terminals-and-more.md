@@ -1,6 +1,6 @@
 ---
 title: Shells, Terminals, and More
-author: Justin
+author: 
 date: 2024-06-18 12:00:00 +0900
 categories: [MacOS, Tools]
 tags: [bash, zsh, shell, iterm2, oh-my-zsh]
