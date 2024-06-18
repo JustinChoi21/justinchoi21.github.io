@@ -37,7 +37,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: latest
-      - run: NODE_ENV=production npx rollup -c --bundleConfigAsCjs
+      #- run: NODE_ENV=production npx rollup -c --bundleConfigAsCjs
 
       - name: Build Assets
         run: npm i && npm run build
