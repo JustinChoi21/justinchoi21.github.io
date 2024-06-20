@@ -7,17 +7,17 @@ tags: [bash, zsh, shell, iterm2, oh-my-zsh]
 render_with_liquid: false
 ---
 
-# Description
+## Description
 
 This car maintenance app will help people keep track of their car maintenance history. And the app will give reminder based on the specific car model and car maintenance history. Also, you can see a bar chart that shows current year’s monthly fuel consumption amount of your car.
 
-# Technologies
+## Technologies
 Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
 
 ![feature1](./assets/img/post_images/2024-06-19-android-car-management-app/app design.PNG)
 _App Architecutre_
 
-# Features
+## Features
 
 #### 1. Login / Register / Logout
 
