@@ -1,9 +1,9 @@
 ---
 title: Android Car Management App Project
 author: 
-date: 2024-06-19 12:00:00 +0900
-categories: [MacOS, Tools]
-tags: [bash, zsh, shell, iterm2, oh-my-zsh]
+date: 2022-12-19 12:00:00 +0900
+categories: [Projects, Android]
+tags: [Android, Kotlin, Java, Mobile App]
 render_with_liquid: false
 ---
 
