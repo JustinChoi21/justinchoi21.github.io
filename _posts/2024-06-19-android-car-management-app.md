@@ -14,7 +14,7 @@ This car maintenance app will help people keep track of their car maintenance hi
 # Technologies
 Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
 
-![feature1](./assets/img/post_images/2024-06-19-android-car-management-app/app design.png)
+![feature1](./assets/img/post_images/2024-06-19-android-car-management-app/app design.PNG)
 _App Architecutre_
 
 # Features
