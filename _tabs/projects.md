@@ -20,41 +20,39 @@ order: 1
 - **Technologies:** Various (depending on client requirements), including HTML, CSS, JavaScript (React, TypeScript), Python, Django, PostgreSQL
 - **Description:** Developed various web applications for freelance clients, utilizing different technologies depending on the project requirements. Projects ranged from small personal websites to large-scale enterprise applications.
 - **Location:** Freelance
-- **Detailed Link:** [Project Report](#)
 
 ## Mobile Enterprise Application Platform (09/2015 - 10/2016)
 - **Technologies:** C#, .Net Framework, Android, MSSQL
 - **Description:** Developed a mobile enterprise application platform for managing business processes on the go. The platform included features such as workflow management, task assignments, and real-time notifications.
 - **Location:** LG CNS, Mobile Application Development Team
-- **Detailed Link:** [Project Report](#)
   
 ## Kyowon Corp. Edu Web Apps (05/2015 - 08/2015)
 - **Technologies:** JavaScript (AngularJS), HTML5, CSS3 (Sass), Android, iOS
 - **Description:** Created educational a mobile single page application(SPA) for Kyowon Corp., including interactive learning modules and online quizzes. The application aimed to enhance the digital learning experience for students.
 - **Location:** LG CNS, Mobile Application Development Team
-- **Detailed Link:** [Project Report](#)
 
 ## SGP Hotel Check-In App (02/2015 - 04/2015)
 - **Technologies:** Java, Android SDK
-- **Description:** Developed a hotel check-in application for SGP, allowing guests to check in and out of their rooms using their mobile devices. The app also provided information about hotel amenities and local attractions.
+- **Description:** Developed a hotel check-in application for SGP, allowing guests to check in and out of their rooms using their mobile devices. The app also provided information about hotel amenities and local attractions. Implemented features for locking and unlocking doors using Bluetooth communication between smartphones and hotel door locks.
 - **Location:** LG CNS, Mobile Application Development Team
-- **Detailed Link:** [Project Report](#)
+  
+# LG CNS Access Control App (01/2013 - 09/2013)
+- **Technologies:** Java, Android SDK
+- **Description:** Developed an access control application for LG CNS, allowing employees to manage their access rights to different facilities using their mobile devices. The app included features for secure login, access requests, and real-time notifications.
+- **Location:** LG CNS, Security Solutions Team
 
 ## GS Corp. Meeting Room Management App (10/2014 - 01/2015)
-- **Technologies:** JavaScript (AngularJS), HTML5, CSS3 (Sass), Java, MySQL
+- **Technologies:** JavaScript (AngularJS), HTML5, CSS3 (Sass), Java, Oracle DB
 - **Description:** Developed an application for managing meeting room bookings at GS Corp. The app allowed employees to reserve rooms, view availability, and manage meeting schedules.
 - **Location:** LG CNS, Mobile Application Development Team
-- **Detailed Link:** [Project Report](#)
 
 ## LG Smart TV App (10/2013 - 09/2014)
 - **Technologies:** JavaScript (enyo.js), HTML5, CSS3
 - **Description:** Developed a smart TV application for LG, providing users with access to streaming services, games, and other interactive content. The app enhanced the overall user experience by integrating various multimedia features.
 - **Location:** LG CNS, Smart Application Team
-- **Detailed Link:** [Project Report](#)
 
 ## LG Electronics Global Logistic System (07/2010 - 09/2013)
 - **Technologies:** Java, Spring Framework, Oracle DB
 - **Description:** Developed and maintained a global logistic system for LG Electronics, streamlining logistics operations across multiple countries. The system handled inventory management, shipment tracking, and warehouse management.
 - **Location:** LG CNS, Global Logistic System Team
-- **Detailed Link:** [Project Report](#)
 
