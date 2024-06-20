@@ -9,7 +9,7 @@ order: 1
 - **Technologies:** Python, TensorFlow, Keras, Scikit-learn
 - **Description:** This project focused on developing machine learning models to classify parasitized and uninfected cells in the malaria dataset. The project was divided into three phases: data selection, model training, fine-tuning, and performance evaluation.
 - **Location:** UMass Boston
-- **Detailed Link:** [Project Report](#)
+- **Detailed Link:** [Project Report](/posts/malaria-detection-using-machine-learning/)
 
 ## Android Car Management App (10/2022 - 12/2022)
 

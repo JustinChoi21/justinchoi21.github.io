@@ -14,44 +14,44 @@ This car maintenance app will help people keep track of their car maintenance hi
 ## Technologies
 Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
 
-![feature1](./assets/img/post_images/2024-06-19-android-car-management-app/app design.PNG)
+![feature1](./assets/img/post_images/2022-12-19-android-car-management-app/app design.PNG)
 _App Architecutre_
 
 ## Features
 
 #### 1. Login / Register / Logout
 
-![feature1](assets/img/post_images/2024-06-19-android-car-management-app/login_register.png)
+![feature1](assets/img/post_images/2022-12-19-android-car-management-app/login_register.png)
 _Login / Register / Logout_
 
-![feature2](assets/img/post_images/2024-06-19-android-car-management-app/logout.PNG)
+![feature2](assets/img/post_images/2022-12-19-android-car-management-app/logout.PNG)
 _Logout_
 
 #### 2. Home (Select My Car)
 
-![feature3](assets/img/post_images/2024-06-19-android-car-management-app/select your car.PNG)
+![feature3](assets/img/post_images/2022-12-19-android-car-management-app/select your car.PNG)
 _Select My Car_
 
 #### 3. History
 
-![feature5](assets/img/post_images/2024-06-19-android-car-management-app/input.PNG)
+![feature5](assets/img/post_images/2022-12-19-android-car-management-app/input.PNG)
 _Add data_
 
-![feature4](assets/img/post_images/2024-06-19-android-car-management-app/history.PNG)
+![feature4](assets/img/post_images/2022-12-19-android-car-management-app/history.PNG)
 _Add dummy data for test_
 
 
 #### 4. Statistics
 
-![feature6](assets/img/post_images/2024-06-19-android-car-management-app/stat.PNG)
+![feature6](assets/img/post_images/2022-12-19-android-car-management-app/stat.PNG)
 _Statistics and Bar Chart_
 
 #### 5. Reminder
 
-![feature7](assets/img/post_images/2024-06-19-android-car-management-app/reminder1.PNG)
+![feature7](assets/img/post_images/2022-12-19-android-car-management-app/reminder1.PNG)
 _Set Reminders_
 
-![feature8](assets/img/post_images/2024-06-19-android-car-management-app/reminder2.PNG)
+![feature8](assets/img/post_images/2022-12-19-android-car-management-app/reminder2.PNG)
 _Alter Reminders_
 
 ## Target Android API
