@@ -24,34 +24,34 @@ _App Architecutre_
 ![feature1](assets/img/post_images/2024-06-19-android-car-management-app/login_register.png)
 _Login / Register / Logout_
 
-![feature2](assets/img/post_images/2024-06-19-android-car-management-app/logout.png)
+![feature2](assets/img/post_images/2024-06-19-android-car-management-app/logout.PNG)
 _Logout_
 
 #### 2. Home (Select My Car)
 
-![feature3](assets/img/post_images/2024-06-19-android-car-management-app/select your car.png)
+![feature3](assets/img/post_images/2024-06-19-android-car-management-app/select your car.PNG)
 _Select My Car_
 
 #### 3. History
 
-![feature5](assets/img/post_images/2024-06-19-android-car-management-app/input.png)
+![feature5](assets/img/post_images/2024-06-19-android-car-management-app/input.PNG)
 _Add data_
 
-![feature4](assets/img/post_images/2024-06-19-android-car-management-app/history.png)
+![feature4](assets/img/post_images/2024-06-19-android-car-management-app/history.PNG)
 _Add dummy data for test_
 
 
 #### 4. Statistics
 
-![feature6](assets/img/post_images/2024-06-19-android-car-management-app/stat.png)
+![feature6](assets/img/post_images/2024-06-19-android-car-management-app/stat.PNG)
 _Statistics and Bar Chart_
 
 #### 5. Reminder
 
-![feature7](assets/img/post_images/2024-06-19-android-car-management-app/reminder1.png)
+![feature7](assets/img/post_images/2024-06-19-android-car-management-app/reminder1.PNG)
 _Set Reminders_
 
-![feature8](assets/img/post_images/2024-06-19-android-car-management-app/reminder2.png)
+![feature8](assets/img/post_images/2024-06-19-android-car-management-app/reminder2.PNG)
 _Alter Reminders_
 
 ## Target Android API
