@@ -8,13 +8,13 @@ order: 1
 - **Technologies:** Python, TensorFlow, Keras, Scikit-learn
 - **Description:** This project focused on developing machine learning models to classify parasitized and uninfected cells in the malaria dataset. The project was divided into three phases: data selection, model training, fine-tuning, and performance evaluation.
 - **Location:** UMass Boston
-- **Detailed Link:** [Project Report](/posts/malaria-detection-using-machine-learning/)
+- [Read more](/posts/malaria-detection-using-machine-learning/)
 
 ## Android Car Management App (10/2022 - 12/2022)
 - **Technologies:** Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
 - **Description:** Developed a car maintenance app to help users track their car maintenance history, set reminders for upcoming maintenance tasks, and view fuel consumption statistics. Key features included login/register functionality using Firebase Authentication, maintenance history management, and statistical visualization using bar charts.
 - **Location:** UMass Boston
-- **Detailed Link:** [Project Report](/posts/android-car-management-app/)
+- [Read more](/posts/android-car-management-app/)
 
 ## Freelance Web Applications (01/2017 - Present)
 - **Technologies:** Various (depending on client requirements), including HTML, CSS, JavaScript (React, TypeScript), Python, Django, PostgreSQL
