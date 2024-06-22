@@ -4,8 +4,6 @@ icon: fas fa-user
 order: 2
 ---
 
-## About Me
-
 ### Summary
 Currently pursuing a **Master’s degree** in **Computer Science** at UMass Boston with **14 years** of software development experience as a software engineer at **LG CNS** and as a **Freelance Developer**. Possess proficiency in **Full-stack Web Development**, object-oriented programming, data management in distributed systems, and cloud computing. Actively seeking to expand my knowledge and skills in Machine Learning and Artificial Intelligence to enhance my capabilities and development productivity.
 
