@@ -36,7 +36,7 @@ order: 1
 - **Description:** Developed a hotel check-in application for SGP, allowing guests to check in and out of their rooms using their mobile devices. The app also provided information about hotel amenities and local attractions. Implemented features for locking and unlocking doors using Bluetooth communication between smartphones and hotel door locks.
 - **Location:** LG CNS, Mobile Application Development Team
   
-# LG CNS Access Control App (01/2013 - 09/2013)
+## LG CNS Access Control App (01/2013 - 09/2013)
 - **Technologies:** Java, Android SDK
 - **Description:** Developed an access control application for LG CNS, allowing employees to manage their access rights to different facilities using their mobile devices. The app included features for secure login, access requests, and real-time notifications.
 - **Location:** LG CNS, Security Solutions Team
