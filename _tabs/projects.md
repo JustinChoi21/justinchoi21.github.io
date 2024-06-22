@@ -9,6 +9,12 @@ order: 1
 - **Description:** This project focused on developing machine learning models to classify parasitized and uninfected cells in the malaria dataset. The project was divided into three phases: data selection, model training, fine-tuning, and performance evaluation.
 - **Location:** UMass Boston
 - [Read more](/posts/malaria-detection-using-machine-learning/)
+  
+## Banking Web Applications (01/2024 - 03/2024)
+- **Technologies:** Next.js, TypeScript, Appwrite, Plaid, Dwolla, React Hook Form, Zod, TailwindCSS, Chart.js, ShadCN
+- **Description:** Developed a comprehensive banking web application as a freelance project, integrating advanced features such as ultra-secure SSR authentication, multi-bank account linking using Plaid, and real-time updates across all pages. The application provides users with a detailed overview of their accounts, including total balances, recent transactions, and categorized spending. 
+- **Location:** Freelance
+- [Read more](/posts/android-car-management-app/)
 
 ## Android Car Management App (10/2022 - 12/2022)
 - **Technologies:** Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart

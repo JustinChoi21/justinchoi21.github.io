@@ -17,7 +17,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Justin Choi's Blog # the main title
+title: Justin Choi # the main title
 
 tagline: Software Engineer / Full-stack developer / Blogger # it will display as the sub-title
 
