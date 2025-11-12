@@ -43,6 +43,68 @@
 
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
+## Deployment
+
+This repository includes a GitHub Actions workflow that builds the Jekyll site and (optionally) publishes it to the `gh-pages` branch so GitHub Pages can serve the generated site.
+
+- Workflow path: `.github/workflows/jekyll-build.yml`
+- The workflow runs on push to `master`/`main` and on pull requests. It performs these steps:
+  1. Installs Ruby and project gems (Bundler).  
+  2. Runs `bundle exec jekyll build` to generate `_site`.  
+  3. Uploads `_site` as an artifact.  
+  4. Deploys `_site` to the `gh-pages` branch using `peaceiris/actions-gh-pages` (uses `GITHUB_TOKEN`).
+
+How to trigger and verify the build
+
+- Push your branch to GitHub (or open a PR). The workflow will run automatically.  
+- On GitHub: Repository → Actions → choose the workflow run to inspect logs.  
+- After a successful run the `site` artifact is available in the run page. Download it to inspect the generated HTML.
+
+To publish using GitHub Pages
+
+1. After the workflow creates/updates the `gh-pages` branch, open your repository on GitHub → Settings → Pages and ensure the source is set to the `gh-pages` branch (root). GitHub will publish the site at your repository Pages URL.
+2. If you prefer automatic publishing without visiting settings, the workflow already publishes to `gh-pages` using `GITHUB_TOKEN` — GitHub Pages will pick it up automatically in most cases.
+
+Local build (no-admin guidance)
+
+If you prefer to build locally but cannot run admin installers, try a per-user gem install and run Jekyll from the repository. These commands are for Command Prompt (cmd.exe) or PowerShell when Ruby is already available.
+
+Check Ruby/gem availability:
+
+```powershell
+ruby -v
+gem -v
+```
+
+Install Bundler and Jekyll into your user gem directory:
+
+```powershell
+gem install --user-install bundler jekyll
+# Optionally configure bundler to install to project-local folder:
+bundle config set --local path 'vendor/bundle'
+bundle install --jobs 4 --retry 3
+```
+
+Make the per-user gem bin directory available in the current session (example for cmd.exe):
+
+```cmd
+set GEM_HOME=%USERPROFILE%\.gem\ruby\<ruby_version>
+set PATH=%USERPROFILE%\.gem\ruby\<ruby_version>\bin;%PATH%
+# replace <ruby_version> with the folder name under %USERPROFILE%\.gem\ruby\
+```
+
+Build the site locally:
+
+```powershell
+bundle exec jekyll build
+# or serve locally:
+bundle exec jekyll serve --livereload
+```
+
+Notes
+- If Ruby is not installed and you cannot run an installer due to admin restrictions, use the GitHub Actions workflow (no local tools required).  
+- The CI workflow already included in this repo provides a convenient way to verify generated output and publish to GitHub Pages without local setup.
+
 ## Contributing
 
 Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
