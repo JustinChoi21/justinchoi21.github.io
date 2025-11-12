@@ -1,0 +1,52 @@
+name: Build Jekyll site
+
+on:
+  push:
+    branches: [ "master", "main" ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          gem install bundler --no-document
+          bundle config set --local path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build --trace
+
+      - name: Upload generated site as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+
+# Optional: uncomment and configure the job below to automatically deploy to gh-pages
+# Note: peaceiris/actions-gh-pages uses the GITHUB_TOKEN by default and will publish the
+# contents of ./_site to the gh-pages branch. Enable only if you want automatic deploy.
+#
+#  deploy:
+#    needs: build
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v4
+#
+#      - name: Deploy to GitHub Pages
+#        uses: peaceiris/actions-gh-pages@v4
+#        with:
+#          deploy_key: ${{ secrets.DEPLOY_KEY }} # optional if using deploy key
+#          publish_branch: gh-pages
+#          publish_dir: ./_site
