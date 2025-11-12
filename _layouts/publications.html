@@ -1,0 +1,38 @@
+---
+layout: page
+# The Publications listing layout.
+---
+
+{% include lang.html %}
+
+{% assign df_strftime_m = site.data.locales[lang].df.publications.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.publications.dayjs | default: '/ MM' %}
+
+<div id="publications" class="pl-xl-3">
+  {% if site.publications and site.publications != empty %}
+    <ul class="list-unstyled">
+    {% assign publications = site.publications | sort: 'date' | reverse %}
+    {% for pub in publications %}
+      <li>
+        {% if pub.date %}
+          {% assign ts = pub.date | date: '%s' %}
+          <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ pub.date | date: '%d' }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+            {{ pub.date | date: df_strftime_m }}
+          </span>
+        {% endif %}
+        <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+        {% if pub.authors %}
+          <small class="text-muted"> — {{ pub.authors | join: ', ' }}</small>
+        {% elsif pub.author %}
+          <small class="text-muted"> — {{ pub.author }}</small>
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <article class="px-1">
+      {{ content }}
+    </article>
+  {% endif %}
+</div>
