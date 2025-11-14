@@ -178,9 +178,6 @@ collections:
   app:
     output: true
     permalink: /:name
-  publications:
-    output: true
-    permalink: /publications/:name/
 
 defaults:
   - scope:
