@@ -10,7 +10,6 @@ order: 1
 - **Location:** Personal / Project
 - [Read more](/posts/financial-assets-management-web-application-project/)
 
-
 ## Malaria Detection using Machine Learning (03/2024 - 05/2024)
 - **Technologies:** Python, TensorFlow, Keras, Scikit-learn
 - **Description:** This project focused on developing machine learning models to classify parasitized and uninfected cells in the malaria dataset. The project was divided into three phases: data selection, model training, fine-tuning, and performance evaluation.
