@@ -7,6 +7,7 @@ date: 2024-02-20
 layout: 340 page
 cover_image: /assets/img/publications/english-for-developers.jpg
 isbn: "9791140708581"
+E-Book Link: https://product.kyobobook.co.kr/detail/S000212263991
 ---
 
 ### Overview

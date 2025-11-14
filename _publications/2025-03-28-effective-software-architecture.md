@@ -8,6 +8,7 @@ layout: 296 page
 tags: [architecture, translation, software]
 cover_image: /assets/img/publications/effective-software-architecture.jpg
 isbn: "9791140712991"
+E-Book Link: https://product.kyobobook.co.kr/detail/S000216144754
 ---
 
 ### Overview
