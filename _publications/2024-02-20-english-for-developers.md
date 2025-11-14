@@ -1,14 +1,19 @@
-### Title
-- English for Developers
-- Publisher: Gilbeot (길벗)
-- Publication date: February 20, 2024
-- Author: Justin (Heechul) Choi
-
+---
+title: English for Developers
+original_author: Oliver Goldman
+translator: Justin (Heechul) Choi
+publisher: Gilbeot (길벗)
+date: 2024-02-20
+layout: 340 page
+cover_image: /assets/img/publications/english-for-developers.jpg
+isbn: "9791140708581"
 ---
 
 ### Overview
 
 This book is a practical guide for software developers who want to improve their English for career growth, collaboration, and technical communication. It covers foundational vocabulary and grammar tailored for developers, practical expressions for each stage of software development, field-specific terminology (frontend, backend, DevOps, security, embedded, and AI/ML), business English for meetings and emails, graduate school application guidance, interview preparation, and a developer-focused English dictionary.
+
+![Cover image](/assets/img/publications/english-for-developers.jpg)
 
 
 ### Table of Contents
