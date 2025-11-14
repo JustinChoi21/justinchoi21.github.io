@@ -5,7 +5,15 @@ order: 2
 ---
 
 ### Summary
-Currently pursuing a **Master’s degree** in **Computer Science** at UMass Boston with **14 years** of software development experience as a software engineer at **LG CNS** and as a **Freelance Developer**. Possess proficiency in **Full-stack Web Development**, object-oriented programming, data management in distributed systems, and cloud computing. Actively seeking to expand my knowledge and skills in Machine Learning and Artificial Intelligence to enhance my capabilities and development productivity.
+I recently graduated with a Master’s degree in Computer Science from UMass Boston and joined **Applied Optoelectronics Inc. (AOI)** as a **Full-Stack Software Engineer**. I bring 14 years of software development experience from roles at **LG CNS** and as a **Freelance Developer**, with strong skills in Full-stack Software Development, Object-Oriented Programming, Distributed Systems, and Cloud Computing. I continue to expand my knowledge in Machine Learning and Artificial Intelligence to enhance my work and technical leadership.
+
+**Full stack software engineer** at AOI(Applied Optoelectronics Inc.) with over 10 years of experience in developing enterprise systems and web applications. Earned a Master’s degree in Computer Science from UMass Boston. Skilled in Full-stack Software Development, Object-Oriented Programming, Distributed Systems, and Cloud Computing. Currently expanding expertise in Machine learning and Artificial Intelligence to stay at the forefront of rapidly evolving technologies.
+
+### Current Role — Applied Optoelectronics Inc. (AOI)
+- Designed and developed high-performance web applications
+- Collaborated with cross-functional teams to define requirements
+- Wrote clean, efficient code and conducted thorough testing
+- Stayed updated on emerging technologies and proposed innovative solutions
 
 ### Key Achievements
 - Implemented **Web/Mobile applications** for diverse client requirements, optimizing website performance and user experience
@@ -14,5 +22,5 @@ Currently pursuing a **Master’s degree** in **Computer Science** at UMass Bost
 - Acquired a deep understanding of **Machine Learning** and **AI technologies** through academic coursework and personal projects
 
 ### Legal Status
-Legally authorized to work in the United States (**Green card holder**).
+Legally authorized to work in the United States.
 
