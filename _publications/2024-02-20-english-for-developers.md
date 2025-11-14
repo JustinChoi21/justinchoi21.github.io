@@ -1,5 +1,65 @@
 ---
 title: English for Developers
+author: Justin (Heechul) Choi
+translator: 
+publisher: Gilbeot (길벗)
+date: 2024-02-20 00:00:00 +0900
+layout: page
+tags: [english, developers, book]
+isbn: "9791140708581"
+cover_image: /assets/img/publications/english-for-developers.jpg
+permalink: /publications/2024-02-20-english-for-developers/
+---
+
+Short description
+
+This book is a practical guide for software developers to improve their English skills for career growth, technical collaboration, and communication. It covers foundational vocabulary and grammar tailored for developers, practical expressions across software development stages, field-specific terminology, business English, graduate school application guidance, interview preparation, and an appendix dictionary for developers.
+
+Full Table of Contents (summary)
+
+CHAPTER 0 — Do Developers Need to Be Good at English?
+- English as Important as Coding Skills
+- Differences Between General English and IT/Developer English
+- How Much Developer English Is Enough?
+- Book Structure and Learning Strategies
+
+CHAPTER 1 — Basic Preparation for Learning Developer English
+- Basic Vocabulary for Developers
+- Basic Grammar for Developers
+- Developer English Study Tips
+
+CHAPTER 2 — Practical English for Software Development Stages
+- Requirements Analysis
+- Design Phase
+- Implementation
+- Testing
+- Deployment and Maintenance
+
+CHAPTER 3 — Practical English by Development Area
+- Frontend Development English
+- Backend Development English
+- Other Development Areas (DevOps, Security, Embedded, AI/ML)
+
+CHAPTER 4 — Business English for Developers
+- Writing Professional Emails
+- English for Developer Meetings
+- Developer Presentations
+
+CHAPTER 5 — English for US Graduate School (Computer Engineering)
+- Is an Overseas Degree Needed?
+- How to Apply to US CS Graduate Programs
+- TOEFL and GRE Preparation
+
+CHAPTER 6 — English for International Developer Job Search
+- Basic Interview Expressions
+- Behavioral Interviews (STAR)
+- Technical Interviews
+
+APPENDIX A — English Dictionary for Developers
+
+If you want, I can expand this page with sample excerpts, practice exercises, or a cover image file.
+---
+title: English for Developers
 original_author: Oliver Goldman
 translator: Justin (Heechul) Choi
 publisher: Gilbeot (길벗)
