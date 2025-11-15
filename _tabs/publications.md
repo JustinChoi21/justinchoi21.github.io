@@ -11,7 +11,7 @@ order: 6
 - Publisher: Gilbeot (길벗)
 - Publication date: March 28, 2025
 
-- [Read more](/publications/2025-03-28-effective-software-architecture/)
+- [Read more](/posts/2025-03-28-effective-software-architecture/)
 
 
 ### English for Developers
@@ -21,7 +21,7 @@ order: 6
 - Author: Justin (Heechul) Choi
 - ISBN: 9791140708581
 
-- [Read more](/publications/2024-02-20-english-for-developers/)
+- [Read more](/posts/2024-02-20-english-for-developers/)
 
 
 

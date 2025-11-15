@@ -1,0 +1,189 @@
+---
+title: English for Developers
+author: Justin (Heechul) Choi
+translator: 
+publisher: Gilbeot (길벗)
+date: 2024-02-20 00:00:00 +0900
+layout: page
+tags: [english, developers, book]
+isbn: "9791140708581"
+cover_image: /assets/img/publications/english-for-developers.jpg
+permalink: /publications/2024-02-20-english-for-developers/
+---
+
+Short description
+
+This book is a practical guide for software developers to improve their English skills for career growth, technical collaboration, and communication. It covers foundational vocabulary and grammar tailored for developers, practical expressions across software development stages, field-specific terminology, business English, graduate school application guidance, interview preparation, and an appendix dictionary for developers.
+
+Full Table of Contents (summary)
+
+CHAPTER 0 — Do Developers Need to Be Good at English?
+- English as Important as Coding Skills
+- Differences Between General English and IT/Developer English
+- How Much Developer English Is Enough?
+- Book Structure and Learning Strategies
+
+CHAPTER 1 — Basic Preparation for Learning Developer English
+- Basic Vocabulary for Developers
+- Basic Grammar for Developers
+- Developer English Study Tips
+
+CHAPTER 2 — Practical English for Software Development Stages
+- Requirements Analysis
+- Design Phase
+- Implementation
+- Testing
+- Deployment and Maintenance
+
+CHAPTER 3 — Practical English by Development Area
+- Frontend Development English
+- Backend Development English
+- Other Development Areas (DevOps, Security, Embedded, AI/ML)
+
+CHAPTER 4 — Business English for Developers
+- Writing Professional Emails
+- English for Developer Meetings
+- Developer Presentations
+
+CHAPTER 5 — English for US Graduate School (Computer Engineering)
+- Is an Overseas Degree Needed?
+- How to Apply to US CS Graduate Programs
+- TOEFL and GRE Preparation
+
+CHAPTER 6 — English for International Developer Job Search
+- Basic Interview Expressions
+- Behavioral Interviews (STAR)
+- Technical Interviews
+
+APPENDIX A — English Dictionary for Developers
+
+If you want, I can expand this page with sample excerpts, practice exercises, or a cover image file.
+---
+title: English for Developers
+original_author: Oliver Goldman
+translator: Justin (Heechul) Choi
+publisher: Gilbeot (길벗)
+date: 2024-02-20
+layout: 340 page
+cover_image: /assets/img/publications/english-for-developers.jpg
+isbn: "9791140708581"
+E-Book Link: https://product.kyobobook.co.kr/detail/S000212263991
+---
+
+### Overview
+
+This book is a practical guide for software developers who want to improve their English for career growth, collaboration, and technical communication. It covers foundational vocabulary and grammar tailored for developers, practical expressions for each stage of software development, field-specific terminology (frontend, backend, DevOps, security, embedded, and AI/ML), business English for meetings and emails, graduate school application guidance, interview preparation, and a developer-focused English dictionary.
+
+![Cover image](/assets/img/publications/english-for-developers.jpg)
+
+
+### Table of Contents
+
+CHAPTER 0 — Do Developers Need to Be Good at English?
+1. English as Important as Coding Skills
+	- 01 Salary differences between US developers and domestic developers
+	- 02 English: opportunities for career growth
+	- 03 Tools to become a better developer
+2. Differences Between General English and IT/Developer English
+	- 01 Differences in vocabulary and terminology
+	- 02 Differences in grammar and communication style
+3. How Much Developer English Is Enough?
+	- 01 English for improving development skills
+	- 02 English for participating in open source communities
+	- 03 English for working abroad as a developer
+4. Book Structure and Learning Strategies
+	- 01 Chapter-by-chapter structure
+	- 02 Study strategies for developer English
+
+CHAPTER 1 — Basic Preparation for Learning Developer English
+1. Basic Vocabulary for Developers
+	- 01 Frequently used verbs in developer English
+	- 02 Frequently used developer words
+	- 03 Basic pronunciation and word stress
+2. Basic Grammar for Developers
+	- 01 Grammar for expressing the future
+	- 02 Past tense constructions
+	- 03 Present tense constructions
+	- 04 Conditionals and hypothetical forms
+	- 05 Comparatives and superlatives
+	- 06 Passive voice
+	- 07 Gerunds and infinitives
+	- 08 Prepositions
+	- 09 Articles
+3. Developer English Study Tips
+	- 01 Reading & listening practice for developers
+	- 02 Writing & speaking practice for developers
+
+CHAPTER 2 — Practical English for Software Development Stages
+1. Requirements Analysis
+	- 01 Terminology used in requirements analysis
+	- 02 Typical questions developers receive during analysis
+2. Design Phase
+	- 01 Design-phase terminology
+	- 02 Questions developers receive in design discussions
+3. Implementation
+	- 01 Implementation-phase terminology
+	- 02 Git-related English expressions
+	- 03 Writing code comments
+4. Testing
+	- 01 Testing-related terminology
+	- 02 Test case naming conventions
+5. Deployment and Maintenance
+	- 01 Deployment and maintenance terminology
+	- 02 Writing entries in issue-tracking systems
+	- 03 English expressions for system incidents and failures
+
+CHAPTER 3 — Practical English by Development Area
+1. Frontend Development English
+	- 01 Web frontend development
+	- 02 Mobile application development
+2. Backend Development English
+	- 01 Backend programming English
+	- 02 Database-related English
+	- 03 Algorithms and data structures English
+3. Other Development Areas
+	- 01 DevOps-related vocabulary and expressions
+	- 02 Security-related vocabulary and expressions
+	- 03 Embedded systems vocabulary and expressions
+	- 04 AI / Machine Learning vocabulary and expressions
+
+CHAPTER 4 — Business English for Developers
+1. Writing Professional Emails
+	- 01 Scheduling and meeting requests
+	- 02 Progress and status reporting
+	- 03 Responding to incidents and outages
+2. English for Developer Meetings
+	- 01 Meeting-related terminology
+	- 02 Language for facilitating and participating in meetings
+	- 03 Video-conference English
+3. Developer Presentations
+	- 01 Presentation openings
+	- 02 Presenting the main content (app overview, architecture)
+	- 03 Presentation closings
+
+CHAPTER 5 — English for US Graduate School (Computer Engineering)
+1. Do Developers Need an Overseas Degree?
+	- 01 Advantages of an overseas graduate degree
+	- 02 Costs and planning
+2. How to Apply to US CS Graduate Programs
+	- 01 Preparing an application as a developer
+	- 02 Required documents and submission process
+3. TOEFL and GRE Preparation
+	- 01 TOEFL strategies and tips
+	- 02 GRE strategies and tips
+
+CHAPTER 6 — English for International Developer Job Search
+1. Basic Interview Expressions
+	- 01 Expressions to start an interview
+	- 02 Self-introduction
+	- 03 Explaining motivation and selling points
+	- 04 Closing an interview and thank-you messages
+2. Behavioral Interviews
+	- 01 The STAR technique
+	- 02 Common behavioral questions and preparation
+3. Technical Interviews
+	- 01 Clarifying the problem and explaining approach
+	- 02 Writing code and testing
+	- 03 Time & space complexity analysis and optimization
+
+APPENDIX A — English Dictionary for Developers
