@@ -4,7 +4,7 @@
   <id>https://justinchoi21.github.io/</id>
   <title>Justin Choi</title>
   <subtitle>Welcome to Justin Choi's Blog, a space dedicated to sharing insights, tutorials, and experiences in the world of software development.  With over 14 years of experience in full-stack development, I delve into topics ranging from web development and cloud computing to machine learning and AI.  Join me as I explore the latest trends, best practices, and innovative solutions in technology.  Whether you're a seasoned developer or just starting out, there's something here for everyone looking to enhance their skills and knowledge in the tech industry.</subtitle>
-  <updated>2025-11-14T18:50:12-05:00</updated>
+  <updated>2025-11-15T01:39:40-05:00</updated>
   <author>
     <name>Justin Choi</name>
     <uri>https://justinchoi21.github.io/</uri>
@@ -47,6 +47,39 @@
 Asset-Dash is a finance web application designed to replace a Google Spreadsheet-based financial management system. The application will provide comprehensive financial tracking, including asset management, investment portfolio monitoring, credit card tracking, cashflow management, budget/spending management, and long-term financial planning.
 
 It requires a robust, secure,...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Effective Software Architecture (translation)</title>
+    <link href="https://justinchoi21.github.io/posts/effective-software-architecture/" rel="alternate" type="text/html" title="Effective Software Architecture (translation)" />
+    <published>2025-03-27T11:00:00-04:00</published>
+  
+    <updated>2025-03-27T11:00:00-04:00</updated>
+  
+    <id>https://justinchoi21.github.io/posts/effective-software-architecture/</id>
+    <content src="https://justinchoi21.github.io/posts/effective-software-architecture/" />
+    <author>
+      <name>Justin Choi</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Overview
+
+This is a Korean translation of Oliver Goldman’s book on effective software architecture. The translation presents practical guidance for designing, evolving and governing software systems, covering context, change, process, design, decision-making, practices, communication, architecture teams, and product development organizations.
+
+
+
+Table of Contents
+
+
+  Software Architecture
+    
+...</summary>
 
   </entry>
 
@@ -136,42 +169,6 @@ This report prese...</summary>
   <summary>Description
 
 Developed a comprehensive banking web application as a freelance project, integrating advanced features such as ultra-secure SSR authentication, multi-bank account linking using Plaid, and real-time updates across all pages. The application provides users with a detailed overview of their accounts, including total balances, recent transactions, and categorized spending. Users can v...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Android Car Management App Project</title>
-    <link href="https://justinchoi21.github.io/posts/android-car-management-app/" rel="alternate" type="text/html" title="Android Car Management App Project" />
-    <published>2022-12-18T22:00:00-05:00</published>
-  
-    <updated>2022-12-18T22:00:00-05:00</updated>
-  
-    <id>https://justinchoi21.github.io/posts/android-car-management-app/</id>
-    <content src="https://justinchoi21.github.io/posts/android-car-management-app/" />
-    <author>
-      <name>Justin Choi</name>
-    </author>
-
-  
-    
-    <category term="Projects" />
-    
-    <category term="Android" />
-    
-  
-
-  <summary>Description
-
-This car maintenance app will help people keep track of their car maintenance history. And the app will give reminder based on the specific car model and car maintenance history. Also, you can see a bar chart that shows current year’s monthly fuel consumption amount of your car.
-
-Technologies
-Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
-
-
-App Architecutre
-
-Fea...</summary>
 
   </entry>
 
