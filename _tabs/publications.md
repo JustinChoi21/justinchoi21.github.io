@@ -22,8 +22,3 @@ order: 6
 - ISBN: 9791140708581
 
 - [Read more](/posts/2024-02-20-english-for-developers/)
-
-
-
-
-
