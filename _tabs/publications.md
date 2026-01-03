@@ -1,7 +1,7 @@
 ---
 layout: publications
 icon: fas fa-book
-order: 6
+order: 3
 ---
 
 ### Effective Software Architecture (translation)

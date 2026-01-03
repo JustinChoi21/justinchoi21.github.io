@@ -1,7 +1,7 @@
 ---
 title: projects
 icon: fas fa-code
-order: 1
+order: 2
 ---
 
 ## Financial Assets Management Web Application (09/2025 - Present)
