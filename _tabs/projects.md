@@ -4,11 +4,19 @@ icon: fas fa-code
 order: 2
 ---
 
-## Financial Assets Management Web Application (09/2025 - Present)
+##(해외 송금 수수료 비교 서비스) 12월
+
+## 800G Production Line Setup Project
+
+## Financial Assets Management Web Application (09/2025 - 10/2025)
 - **Technologies:** ASP.NET Core 8.0, C# 12, Entity Framework Core 8, Dapper, PostgreSQL, React 18, TypeScript, Tailwind CSS, Chart.js, Hangfire, Redis, Serilog
 - **Description:** Asset-Dash is a personal finance web application designed to replace a Google Spreadsheet-based system. It provides a centralized dashboard for net worth tracking, automated portfolio updates, credit card management with reminders, budget and cashflow tracking, and long-term planning with multi-currency (USD/KRW) and multi-language support.  
 - **Location:** Personal / Project
 - [Read more](/posts/financial-assets-management-web-application-project/)
+
+## Planning & Reporting System Project (8월)
+
+## Warehouse Management System Proejct - IQC Inventory Confirm Process integreting with SAP (7월)
 
 ## Malaria Detection using Machine Learning (03/2024 - 05/2024)
 - **Technologies:** Python, TensorFlow, Keras, Scikit-learn

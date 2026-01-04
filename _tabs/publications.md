@@ -4,14 +4,20 @@ icon: fas fa-book
 order: 3
 ---
 
+### We, Programmers (translation)
+
+- Original author: Robert C. Martin
+- Translator: Justin (Heechul) Choi
+- Publisher: Gilbeot (길벗)
+- Publication date: January 27, 2026
+
+
 ### Effective Software Architecture (translation)
 
 - Original author: Oliver Goldman
 - Translator: Justin (Heechul) Choi
 - Publisher: Gilbeot (길벗)
 - Publication date: March 28, 2025
-
-
 
 
 ### English for Developers
