@@ -4,7 +4,7 @@ icon: fas fa-code
 order: 2
 ---
 
-##(해외 송금 수수료 비교 서비스) 12월
+## (해외 송금 수수료 비교 서비스) 12월
 
 ## 800G Production Line Setup Project
 
@@ -17,6 +17,10 @@ order: 2
 ## Planning & Reporting System Project (8월)
 
 ## Warehouse Management System Proejct - IQC Inventory Confirm Process integreting with SAP (7월)
+
+## RealEstate Rental Web Application (03/2025 - 05/2025)
+
+## Professor Search Web Application (09/2024 - 02/2025)
 
 ## Malaria Detection using Machine Learning (03/2024 - 05/2024)
 - **Technologies:** Python, TensorFlow, Keras, Scikit-learn
