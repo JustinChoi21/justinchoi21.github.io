@@ -56,21 +56,8 @@ To empower individuals to make informed decisions about international money tran
 | **Provider Links** | Direct links to provider websites |
 | **Failure Alerts** | Slack notifications on scraping failures |
 
-### 3.2 Supported Providers
 
-| Provider | Scraping Method | Notes |
-|----------|-----------------|-------|
-| Wise | API | Direct API integration |
-| Remitly | Puppeteer | Browser automation |
-| Xoom | Puppeteer | PayPal service |
-| WireBarley | Puppeteer | Korean-focused service |
-| Sentbe | Puppeteer | Korean service |
-| Utransfer | Puppeteer | Korean service |
-| Instarem | Puppeteer | Singapore-based |
-| OFX | Puppeteer | Business-focused |
-| Bank of America | Puppeteer | Traditional bank |
-
-### 3.3 Amount Tiers
+### 3.2 Amount Tiers
 
 **US → KR (USD):**
 - $100, $500, $1,000, $2,000, $5,000, $10,000

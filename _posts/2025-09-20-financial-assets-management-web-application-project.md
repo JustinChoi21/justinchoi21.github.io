@@ -26,84 +26,13 @@ It requires a robust, secure, and user-friendly platform that maintains all exis
 ### Vision Statement
 To empower individuals to take complete control of their financial future through an intuitive, comprehensive, and secure personal finance platform that transforms complex financial data into actionable insights.
 
-## 3. Target Users
+## 2. Technology Stack
 
-### Primary User Persona: "Financially Savvy Professional"
-
-**Demographics:**
-- Age: 25-50 years old
-- Occupation: Technology/Engineering professional
-- Income: High-income earner ($100k+ annually)
-- Location: United States (with international ties)
-
-**Characteristics:**
-- Manages complex financial portfolio across multiple institutions
-- Has both US and Korean financial accounts
-- Actively invests in stocks, bonds, ETFs, and cryptocurrency
-- Owns real estate with mortgage
-- Maximizes retirement accounts (401k, Roth IRA, HSA)
-- Uses multiple credit cards for rewards optimization
-- Currently uses spreadsheets or basic tools
-- Values data privacy and control
-
-**Pain Points:**
-- Manual spreadsheet updates are time-consuming
-- No real-time portfolio valuation
-- Difficult to track performance across multiple accounts
-- Risk of calculation errors in spreadsheets
-- No automated reminders for due dates
-- Limited historical analysis and trending
-- Concerns about spreadsheet security/backup
-
-**Goals:**
-- Track net worth in real-time
-- Optimize asset allocation based on age/risk tolerance
-- Monitor investment performance across brokerages
-- Stay on top of credit card due dates and limits
-- Maintain budget and track spending patterns
-- Plan for early retirement (FIRE movement)
-- Make data-driven financial decisions
-
-
-## 9. Technology Stack
-
-### 9.1 Backend (.NET)
+### 2.1 Backend (.NET)
 
 **Framework:**
 - **ASP.NET Core 8.0:** Latest LTS version for web API
 - **C# 12:** the version of C# that was released alongside .NET 8.
-
-**Framework Version Rationale:**
-
-*Why .NET 8 LTS over .NET 9:*
-- **.NET 8 is LTS (Long Term Support):** Supported until November 2026 (3 years)
-- **.NET 9 is STS (Standard Term Support):** Only 18 months support, ending May 2026
-- **Stability Priority:** LTS releases are battle-tested and have more mature ecosystems
-- **Enterprise Pattern:** Standard approach is to migrate LTS → LTS, skipping STS releases
-- **No Need for Latest Features:** .NET 8 provides all necessary capabilities for MVP
-- **Avoid Double Migration:** Choosing .NET 9 would require upgrading to .NET 10 within 6 months
-
-*Upgrade Path to .NET 10 LTS:*
-
-```
-Phase 1 (Oct 2025 - Q1 2026): Build MVP on .NET 8 LTS
-├─ Develop core features with stable framework
-├─ Test and stabilize application
-└─ Deploy to production
-
-Phase 2 (Q2-Q3 2026): Upgrade to .NET 10 LTS
-├─ Wait for .NET 10.0.3+ (mature release after Nov 2025 launch)
-├─ Test upgrade in development environment
-├─ Follow Microsoft migration guide
-├─ Deploy upgraded version to production
-└─ Benefit from 3 more years of support (until Nov 2028)
-```
-
-This approach provides:
-- Maximum stability during initial development (2025-2026)
-- Clear one-time upgrade path to next LTS version
-- 1-year overlap between .NET 8 and .NET 10 LTS for planned migration
-- No rushed upgrades or multiple migration cycles
 
 **Data Access:**
 - **Entity Framework Core 8:** ORM for database operations
@@ -134,7 +63,7 @@ This approach provides:
 - **Moq:** Mocking framework
 - **FluentAssertions:** Assertion library
 
-### 9.2 Frontend
+### 2.2 Frontend
 
 **Framework:**
 - **React 18+ with TypeScript:** Modern UI library with type safety
@@ -195,7 +124,7 @@ This approach provides:
 - **SendGrid / Amazon SES:** Email delivery
 - **Twilio:** SMS notifications (future)
 
-### 9.4 DevOps & Infrastructure
+### 2.4 DevOps & Infrastructure
 
 **Version Control:**
 - **Git / GitHub:** Source control and collaboration
