@@ -4,7 +4,7 @@
   <id>https://justinchoi21.github.io/</id>
   <title>Justin Choi</title>
   <subtitle>Welcome to Justin Choi's Blog, a space dedicated to sharing insights, tutorials, and experiences in the world of software development.  With over 14 years of experience in full-stack development, I delve into topics ranging from web development and cloud computing to machine learning and AI.  Join me as I explore the latest trends, best practices, and innovative solutions in technology.  Whether you're a seasoned developer or just starting out, there's something here for everyone looking to enhance their skills and knowledge in the tech industry.</subtitle>
-  <updated>2026-01-05T12:51:23-05:00</updated>
+  <updated>2026-01-09T10:52:08-05:00</updated>
   <author>
     <name>Justin Choi</name>
     <uri>https://justinchoi21.github.io/</uri>
@@ -20,14 +20,46 @@
 
   
   <entry>
+    <title>International Remittance Fee Comparison Platform</title>
+    <link href="https://justinchoi21.github.io/posts/International-Remittance-Fee-Comparison-Platform/" rel="alternate" type="text/html" title="International Remittance Fee Comparison Platform" />
+    <published>2025-12-14T22:00:00-05:00</published>
+  
+    <updated>2025-12-14T22:00:00-05:00</updated>
+  
+    <id>https://justinchoi21.github.io/posts/International-Remittance-Fee-Comparison-Platform/</id>
+    <content src="https://justinchoi21.github.io/posts/International-Remittance-Fee-Comparison-Platform/" />
+    <author>
+      <name>Justin Choi</name>
+    </author>
+
+  
+    
+    <category term="Projects" />
+    
+    <category term="Next.js" />
+    
+    <category term="React" />
+    
+  
+
+  <summary>1. Executive Summary
+
+SendFeeCompare is a remittance comparison platform designed to help users find the best rates and lowest fees when sending money between the United States and South Korea. The application automatically scrapes real-time exchange rates from multiple providers and presents a clear comparison of total costs including fees, exchange rate margins, and available promotions.
+
+Key...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Financial Assets Management Web Application Project</title>
-    <link href="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/" rel="alternate" type="text/html" title="Financial Assets Management Web Application Project" />
+    <link href="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/" rel="alternate" type="text/html" title="Financial Assets Management Web Application Project" />
     <published>2025-09-19T23:00:00-04:00</published>
   
     <updated>2025-09-19T23:00:00-04:00</updated>
   
-    <id>https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/</id>
-    <content src="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/" />
+    <id>https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/</id>
+    <content src="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/" />
     <author>
       <name>Justin Choi</name>
     </author>
@@ -141,34 +173,6 @@ This project focused on developing machine learning models to classify parasitiz
 
 Introduction
 This report prese...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Banking Web Applications Project</title>
-    <link href="https://justinchoi21.github.io/posts/banking-web-applications/" rel="alternate" type="text/html" title="Banking Web Applications Project" />
-    <published>2024-03-18T23:00:00-04:00</published>
-  
-    <updated>2024-03-18T23:00:00-04:00</updated>
-  
-    <id>https://justinchoi21.github.io/posts/banking-web-applications/</id>
-    <content src="https://justinchoi21.github.io/posts/banking-web-applications/" />
-    <author>
-      <name>Justin Choi</name>
-    </author>
-
-  
-    
-    <category term="Projects" />
-    
-    <category term="Next.js" />
-    
-  
-
-  <summary>Description
-
-Developed a comprehensive banking web application as a freelance project, integrating advanced features such as ultra-secure SSR authentication, multi-bank account linking using Plaid, and real-time updates across all pages. The application provides users with a detailed overview of their accounts, including total balances, recent transactions, and categorized spending. Users can v...</summary>
 
   </entry>
 
