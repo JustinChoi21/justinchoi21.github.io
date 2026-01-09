@@ -396,15 +396,7 @@ SLACK_WEBHOOK_URL=
 
 ## 10. Documentation Index
 
-| Document | Description |
-|----------|-------------|
-| [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) | This document |
-| [DATA_COLLECTION.md](./DATA_COLLECTION.md) | Scraping system details |
-| [PROMOTIONS.md](./PROMOTIONS.md) | Promotion system with date filtering |
-| [FEE_HANDLING.md](./FEE_HANDLING.md) | Fee calculation logic |
-| [ADDING_NEW_PROVIDER.md](./ADDING_NEW_PROVIDER.md) | Guide to add new providers |
-| [supabase-schema.md](./supabase-schema.md) | Database schema reference |
-| [MONITORING_SYSTEM.md](./MONITORING_SYSTEM.md) | Alerting and monitoring |
+> **Note:** Detailed documentation files are maintained in the project repository. For implementation details, please refer to the source code and inline comments.
 
 ---
 
