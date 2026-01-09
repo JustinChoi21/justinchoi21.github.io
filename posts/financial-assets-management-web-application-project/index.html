@@ -564,17 +564,6 @@
 
       
     
-      
-
-      
-      
-
-      
-      
-      
-
-      
-    
 
     
   
@@ -590,17 +579,6 @@
       
         
         
-      
-
-      
-      
-
-      
-      
-      
-
-      
-    
       
 
       
@@ -752,9 +730,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="1004 words"
+  title="621 words"
 >
-  <em>5 min</em> read</span>
+  <em>3 min</em> read</span>
 
         </div>
       </div>
@@ -783,108 +761,14 @@
 <h3 id="vision-statement"><span class="me-2">Vision Statement</span><a href="#vision-statement" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 <p>To empower individuals to take complete control of their financial future through an intuitive, comprehensive, and secure personal finance platform that transforms complex financial data into actionable insights.</p>
 
-<h2 id="3-target-users"><span class="me-2">3. Target Users</span><a href="#3-target-users" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<h2 id="2-technology-stack"><span class="me-2">2. Technology Stack</span><a href="#2-technology-stack" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-<h3 id="primary-user-persona-financially-savvy-professional"><span class="me-2">Primary User Persona: “Financially Savvy Professional”</span><a href="#primary-user-persona-financially-savvy-professional" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
-
-<p><strong>Demographics:</strong></p>
-<ul>
-  <li>Age: 25-50 years old</li>
-  <li>Occupation: Technology/Engineering professional</li>
-  <li>Income: High-income earner ($100k+ annually)</li>
-  <li>Location: United States (with international ties)</li>
-</ul>
-
-<p><strong>Characteristics:</strong></p>
-<ul>
-  <li>Manages complex financial portfolio across multiple institutions</li>
-  <li>Has both US and Korean financial accounts</li>
-  <li>Actively invests in stocks, bonds, ETFs, and cryptocurrency</li>
-  <li>Owns real estate with mortgage</li>
-  <li>Maximizes retirement accounts (401k, Roth IRA, HSA)</li>
-  <li>Uses multiple credit cards for rewards optimization</li>
-  <li>Currently uses spreadsheets or basic tools</li>
-  <li>Values data privacy and control</li>
-</ul>
-
-<p><strong>Pain Points:</strong></p>
-<ul>
-  <li>Manual spreadsheet updates are time-consuming</li>
-  <li>No real-time portfolio valuation</li>
-  <li>Difficult to track performance across multiple accounts</li>
-  <li>Risk of calculation errors in spreadsheets</li>
-  <li>No automated reminders for due dates</li>
-  <li>Limited historical analysis and trending</li>
-  <li>Concerns about spreadsheet security/backup</li>
-</ul>
-
-<p><strong>Goals:</strong></p>
-<ul>
-  <li>Track net worth in real-time</li>
-  <li>Optimize asset allocation based on age/risk tolerance</li>
-  <li>Monitor investment performance across brokerages</li>
-  <li>Stay on top of credit card due dates and limits</li>
-  <li>Maintain budget and track spending patterns</li>
-  <li>Plan for early retirement (FIRE movement)</li>
-  <li>Make data-driven financial decisions</li>
-</ul>
-
-<h2 id="9-technology-stack"><span class="me-2">9. Technology Stack</span><a href="#9-technology-stack" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
-
-<h3 id="91-backend-net"><span class="me-2">9.1 Backend (.NET)</span><a href="#91-backend-net" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="21-backend-net"><span class="me-2">2.1 Backend (.NET)</span><a href="#21-backend-net" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p><strong>Framework:</strong></p>
 <ul>
   <li><strong>ASP.NET Core 8.0:</strong> Latest LTS version for web API</li>
   <li><strong>C# 12:</strong> the version of C# that was released alongside .NET 8.</li>
-</ul>
-
-<p><strong>Framework Version Rationale:</strong></p>
-
-<p><em>Why .NET 8 LTS over .NET 9:</em></p>
-<ul>
-  <li><strong>.NET 8 is LTS (Long Term Support):</strong> Supported until November 2026 (3 years)</li>
-  <li><strong>.NET 9 is STS (Standard Term Support):</strong> Only 18 months support, ending May 2026</li>
-  <li><strong>Stability Priority:</strong> LTS releases are battle-tested and have more mature ecosystems</li>
-  <li><strong>Enterprise Pattern:</strong> Standard approach is to migrate LTS → LTS, skipping STS releases</li>
-  <li><strong>No Need for Latest Features:</strong> .NET 8 provides all necessary capabilities for MVP</li>
-  <li><strong>Avoid Double Migration:</strong> Choosing .NET 9 would require upgrading to .NET 10 within 6 months</li>
-</ul>
-
-<p><em>Upgrade Path to .NET 10 LTS:</em></p>
-
-<div class="language-plaintext highlighter-rouge"><div class="code-header">
-        <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span>
-      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-</pre></td><td class="rouge-code"><pre>Phase 1 (Oct 2025 - Q1 2026): Build MVP on .NET 8 LTS
-├─ Develop core features with stable framework
-├─ Test and stabilize application
-└─ Deploy to production
-
-Phase 2 (Q2-Q3 2026): Upgrade to .NET 10 LTS
-├─ Wait for .NET 10.0.3+ (mature release after Nov 2025 launch)
-├─ Test upgrade in development environment
-├─ Follow Microsoft migration guide
-├─ Deploy upgraded version to production
-└─ Benefit from 3 more years of support (until Nov 2028)
-</pre></td></tr></tbody></table></code></div></div>
-
-<p>This approach provides:</p>
-<ul>
-  <li>Maximum stability during initial development (2025-2026)</li>
-  <li>Clear one-time upgrade path to next LTS version</li>
-  <li>1-year overlap between .NET 8 and .NET 10 LTS for planned migration</li>
-  <li>No rushed upgrades or multiple migration cycles</li>
 </ul>
 
 <p><strong>Data Access:</strong></p>
@@ -930,7 +814,7 @@ Phase 2 (Q2-Q3 2026): Upgrade to .NET 10 LTS
   <li><strong>FluentAssertions:</strong> Assertion library</li>
 </ul>
 
-<h3 id="92-frontend"><span class="me-2">9.2 Frontend</span><a href="#92-frontend" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="22-frontend"><span class="me-2">2.2 Frontend</span><a href="#22-frontend" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p><strong>Framework:</strong></p>
 <ul>
@@ -1022,7 +906,7 @@ Phase 2 (Q2-Q3 2026): Upgrade to .NET 10 LTS
   <li><strong>Twilio:</strong> SMS notifications (future)</li>
 </ul>
 
-<h3 id="94-devops--infrastructure"><span class="me-2">9.4 DevOps &amp; Infrastructure</span><a href="#94-devops--infrastructure" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="24-devops--infrastructure"><span class="me-2">2.4 DevOps &amp; Infrastructure</span><a href="#24-devops--infrastructure" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p><strong>Version Control:</strong></p>
 <ul>
