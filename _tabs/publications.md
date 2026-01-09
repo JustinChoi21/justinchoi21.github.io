@@ -9,7 +9,7 @@ order: 3
 - Original author: Robert C. Martin
 - Translator: Justin (Heechul) Choi
 - Publisher: Gilbeot (길벗)
-- Publication date: January 27, 2026
+- Publication date: January 21, 2026
 - Link: [https://event.kyobobook.co.kr/funding/detail/424](https://event.kyobobook.co.kr/funding/detail/424) 
 
 
