@@ -5,7 +5,7 @@ order: 1
 ---
 
 ### Summary
-**Full stack software engineer** at AOI(Applied Optoelectronics Inc.) with 14 years of software development experience in developing enterprise systems and web applications. I bring extensive experience from roles at **LG CNS** and as a **Freelance Developer**. Earned a Master's degree in Computer Science from University of Massachusetts Boston. Skilled in Full-stack Software Development, Object-Oriented Programming, Distributed Systems, and Cloud Computing. Currently expanding expertise in Machine learning and AI to stay at the forefront of technologies and enhance my work and technical leadership.
+**Full stack software engineer** at AOI(Applied Optoelectronics Inc.) with 14 years of software development experience in developing enterprise systems and web applications. I bring extensive experience from roles at **LG CNS** and as a **Freelance Developer**. Earned a Master's degree in Computer Science from University of Massachusetts Boston. Skilled in Full-stack Software Development, Object-Oriented Programming, Distributed Systems, and Cloud Computing. Currently expanding expertise in Machine learning and AI to enhance my work and technical leadership.
 
 
 ### Key Achievements
