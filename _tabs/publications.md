@@ -10,6 +10,7 @@ order: 3
 - Translator: Justin (Heechul) Choi
 - Publisher: Gilbeot (길벗)
 - Publication date: January 27, 2026
+- Link: [https://event.kyobobook.co.kr/funding/detail/424](https://event.kyobobook.co.kr/funding/detail/424) 
 
 
 ### Effective Software Architecture (translation)
@@ -18,6 +19,7 @@ order: 3
 - Translator: Justin (Heechul) Choi
 - Publisher: Gilbeot (길벗)
 - Publication date: March 28, 2025
+- Link: [https://product.kyobobook.co.kr/detail/S000216144754](https://product.kyobobook.co.kr/detail/S000216144754)
 
 
 ### English for Developers
@@ -26,4 +28,5 @@ order: 3
 - Publication date: February 20, 2024
 - Author: Justin (Heechul) Choi
 - ISBN: 9791140708581
+- Link: [https://product.kyobobook.co.kr/detail/S000212263991](https://product.kyobobook.co.kr/detail/S000212263991)
 
