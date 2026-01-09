@@ -4,7 +4,12 @@ icon: fas fa-code
 order: 2
 ---
 
-## (해외 송금 수수료 비교 서비스) 12월
+## International Remittance Fee Comparison Platform (12/2024 - 01/2026)
+
+- **Technologies:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Supabase (PostgreSQL), Puppeteer, Cheerio, Zod, Vercel, GitHub Actions
+- **Description:** SendFeeCompare is a web application that compares remittance fees and exchange rates across multiple providers for US-Korea money transfers. It provides real-time rate scraping, promotion tracking, and comprehensive cost breakdowns to help users find the most cost-effective transfer option.
+- **Location:** Personal / Project
+- [Read more](/posts/International-Remittance-Fee-Comparison-Platform/)
 
 ## 800G Production Line Setup Project
 
