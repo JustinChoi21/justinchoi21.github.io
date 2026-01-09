@@ -4,7 +4,7 @@
   <id>https://justinchoi21.github.io/</id>
   <title>Justin Choi</title>
   <subtitle>Welcome to Justin Choi's Blog, a space dedicated to sharing insights, tutorials, and experiences in the world of software development.  With over 14 years of experience in full-stack development, I delve into topics ranging from web development and cloud computing to machine learning and AI.  Join me as I explore the latest trends, best practices, and innovative solutions in technology.  Whether you're a seasoned developer or just starting out, there's something here for everyone looking to enhance their skills and knowledge in the tech industry.</subtitle>
-  <updated>2026-01-09T10:52:08-05:00</updated>
+  <updated>2026-01-09T11:16:12-05:00</updated>
   <author>
     <name>Justin Choi</name>
     <uri>https://justinchoi21.github.io/</uri>
@@ -53,13 +53,13 @@ Key...</summary>
   
   <entry>
     <title>Financial Assets Management Web Application Project</title>
-    <link href="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/" rel="alternate" type="text/html" title="Financial Assets Management Web Application Project" />
+    <link href="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/" rel="alternate" type="text/html" title="Financial Assets Management Web Application Project" />
     <published>2025-09-19T23:00:00-04:00</published>
   
     <updated>2025-09-19T23:00:00-04:00</updated>
   
-    <id>https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/</id>
-    <content src="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project-copy/" />
+    <id>https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/</id>
+    <content src="https://justinchoi21.github.io/posts/financial-assets-management-web-application-project/" />
     <author>
       <name>Justin Choi</name>
     </author>
