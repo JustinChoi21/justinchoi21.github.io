@@ -4,13 +4,13 @@ icon: fas fa-code
 order: 2
 ---
 
-## International Remittance Fee Comparison Platform (12/2025 - 01/2026)
+## International Remittance Fee Comparison Platform (02/2026 - 03/2026)
 - **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Supabase (PostgreSQL), Puppeteer, Cheerio, Zod, Vercel, GitHub Actions
 - **Description:** SendFeeCompare is a web application that compares remittance fees and exchange rates across multiple providers for US-Korea money transfers. It provides real-time rate scraping, promotion tracking, and comprehensive cost breakdowns to help users find the most cost-effective transfer option.
 - **Location:** Side Project
 - [Read more](/posts/International-Remittance-Fee-Comparison-Platform/)
 
-## 800G Transceiver Production Line Setup Support (10/2025 - 12/2025)
+## 800G Transceiver Production Line Setup Support (10/2025 - 01/2026)
 - **Technologies:** .NET Framework, C#, MSSQL, Vue, echart
 - **Description:** Developed and maintained a production line management interfaces to support the setup and operation of 800G transceiver manufacturing lines. The system provides real-time monitoring of production metrics, equipment status tracking, quality control data collection, and comprehensive dashboards for production analytics.
 - **Location:** Applied Optoelectronics Inc
