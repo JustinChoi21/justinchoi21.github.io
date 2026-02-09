@@ -11,7 +11,7 @@ render_with_liquid: false
 
 SendFeeCompare is a remittance comparison platform designed to help users find the best rates and lowest fees when sending money between the United States and South Korea. The application automatically scrapes real-time exchange rates from multiple providers and presents a clear comparison of total costs including fees, exchange rate margins, and available promotions.
 
-Production Review(프로젝트 후기, Korean): [미국-한국 해외 송금 수수료 비교 사이트 제작기](https://www.milemoa.com/bbs/board/12093281)
+- Production Review(프로젝트 후기, Korean): [미국-한국 해외 송금 수수료 비교 사이트 제작기](https://www.milemoa.com/bbs/board/12093281)
 
 ### Key Value Propositions
 
