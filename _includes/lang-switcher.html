@@ -1,0 +1,54 @@
+<!-- Language switcher button rendered in the top bar. -->
+
+{%- assign page_lang = page.lang | default: 'en' -%}
+{%- assign translation_url = '' -%}
+{%- if page.ref -%}
+  {%- assign other_lang = 'ko' -%}
+  {%- if page_lang == 'ko' -%}{%- assign other_lang = 'en' -%}{%- endif -%}
+  {%- assign translation = site.posts | where: 'ref', page.ref | where: 'lang', other_lang | first -%}
+  {%- if translation -%}
+    {%- assign translation_url = translation.url | relative_url -%}
+  {%- endif -%}
+{%- endif -%}
+
+<button
+  type="button"
+  id="lang-toggle"
+  class="btn btn-link"
+  aria-label="Switch Language"
+  data-page-lang="{{ page_lang }}"
+  data-translation-url="{{ translation_url }}"
+>
+  <span class="lang-label" style="font-size: 0.85rem; font-weight: 600;">EN</span>
+</button>
+
+<script>
+  (function () {
+    var KEY = 'preferred-lang';
+    var btn = document.getElementById('lang-toggle');
+    if (!btn) return;
+    var label = btn.querySelector('.lang-label');
+
+    function getLang() {
+      try { return localStorage.getItem(KEY) || 'en'; } catch (e) { return 'en'; }
+    }
+    function setLang(v) {
+      try { localStorage.setItem(KEY, v); } catch (e) {}
+      document.documentElement.setAttribute('data-active-lang', v);
+      label.textContent = v.toUpperCase();
+    }
+
+    setLang(getLang());
+
+    btn.addEventListener('click', function () {
+      var current = getLang();
+      var next = current === 'en' ? 'ko' : 'en';
+      var pageLang = btn.getAttribute('data-page-lang');
+      var transUrl = btn.getAttribute('data-translation-url');
+      setLang(next);
+      if (pageLang && pageLang !== next && transUrl) {
+        window.location.href = transUrl;
+      }
+    });
+  })();
+</script>

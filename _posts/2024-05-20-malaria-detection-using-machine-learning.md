@@ -1,5 +1,6 @@
 ---
 title: Malaria Detection using Machine Learning
+lang: en
 author: 
 date: 2024-05-20 12:00:00 +0900
 categories: [Projects, Machine Learning]

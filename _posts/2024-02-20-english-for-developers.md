@@ -1,5 +1,6 @@
 ---
 title: English for Developers
+lang: en
 author: Justin (Heechul) Choi
 translator: 
 publisher: Gilbeot (길벗)

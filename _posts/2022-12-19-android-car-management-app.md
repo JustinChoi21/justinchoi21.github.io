@@ -1,5 +1,6 @@
 ---
 title: Android Car Management App Project
+lang: en
 author: 
 date: 2022-12-19 12:00:00 +0900
 categories: [Projects, Android]
