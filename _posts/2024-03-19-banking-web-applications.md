@@ -1,5 +1,6 @@
 ---
 title: Banking Web Applications Project
+lang: en
 author: 
 date: 2024-03-19 12:00:00 +0900
 categories: [Projects, Next.js]

@@ -1,5 +1,6 @@
 ---
 title: International Remittance Fee Comparison Platform
+lang: en
 author:
 date: 2025-12-15 12:00:00 +0900
 categories: [Projects, Next.js, React]

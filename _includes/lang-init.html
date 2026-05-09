@@ -1,0 +1,17 @@
+<!-- Early language preference application + hide rules to prevent FOUC. -->
+
+<style>
+  html[data-active-lang='en'] [data-lang='ko'] { display: none !important; }
+  html[data-active-lang='ko'] [data-lang='en'] { display: none !important; }
+</style>
+
+<script>
+  (function () {
+    var KEY = 'preferred-lang';
+    var stored = null;
+    try { stored = localStorage.getItem(KEY); } catch (e) {}
+    var lang = stored || '{{ site.lang | default: "en" }}';
+    if (lang !== 'en' && lang !== 'ko') lang = 'en';
+    document.documentElement.setAttribute('data-active-lang', lang);
+  })();
+</script>
