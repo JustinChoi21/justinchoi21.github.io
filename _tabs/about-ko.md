@@ -1,5 +1,5 @@
 ---
-title: 정보
+title: 프로필
 lang: ko
 ref: tab-about
 icon: fas fa-user
