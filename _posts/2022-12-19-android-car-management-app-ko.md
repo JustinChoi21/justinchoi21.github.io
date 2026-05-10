@@ -1,65 +1,65 @@
 ---
-title: Android Car Management App Project
-lang: en
+title: 안드로이드 차량 관리 앱 프로젝트
+lang: ko
 ref: android-car-management-app
 author: 
 date: 2022-12-19 12:00:00 +0900
 categories: [Projects, Android]
 tags: [Android, Kotlin, Java, Mobile App]
 render_with_liquid: false
+permalink: /ko/posts/android-car-management-app/
 ---
 
-## Description
+## 설명
 
-This car maintenance app will help people keep track of their car maintenance history. And the app will give reminder based on the specific car model and car maintenance history. Also, you can see a bar chart that shows current year’s monthly fuel consumption amount of your car.
+차량 정비 이력을 손쉽게 관리할 수 있도록 도와주는 앱입니다. 차량 모델과 정비 이력을 기반으로 다음 정비 일정 알림을 보내주고, 올해의 월별 연료 사용량을 막대 그래프로 한눈에 확인할 수 있습니다.
 
-## Technologies
+## 기술 스택
 Kotlin, Java, Android SDK, Room Database, Firebase, MPAndroidChart
 
 ![feature1](./assets/img/post_images/2022-12-19-android-car-management-app/app design.PNG)
-_App Architecutre_
+_앱 아키텍처_
 
-## Features
+## 주요 기능
 
-#### 1. Login / Register / Logout
+#### 1. 로그인 / 회원가입 / 로그아웃
 
 ![feature1](assets/img/post_images/2022-12-19-android-car-management-app/login_register.png)
-_Login / Register / Logout_
+_로그인 / 회원가입 / 로그아웃_
 
 ![feature2](assets/img/post_images/2022-12-19-android-car-management-app/logout.PNG)
-_Logout_
+_로그아웃_
 
-#### 2. Home (Select My Car)
+#### 2. 홈 (내 차량 선택)
 
 ![feature3](assets/img/post_images/2022-12-19-android-car-management-app/select your car.PNG)
-_Select My Car_
+_내 차량 선택_
 
-#### 3. History
+#### 3. 정비 이력
 
 ![feature5](assets/img/post_images/2022-12-19-android-car-management-app/input.PNG)
-_Add data_
+_데이터 추가_
 
 ![feature4](assets/img/post_images/2022-12-19-android-car-management-app/history.PNG)
-_Add dummy data for test_
+_테스트용 더미 데이터 추가_
 
-
-#### 4. Statistics
+#### 4. 통계
 
 ![feature6](assets/img/post_images/2022-12-19-android-car-management-app/stat.PNG)
-_Statistics and Bar Chart_
+_통계와 막대 그래프_
 
-#### 5. Reminder
+#### 5. 알림(리마인더)
 
 ![feature7](assets/img/post_images/2022-12-19-android-car-management-app/reminder1.PNG)
-_Set Reminders_
+_알림 설정_
 
 ![feature8](assets/img/post_images/2022-12-19-android-car-management-app/reminder2.PNG)
-_Alter Reminders_
+_알림 변경_
 
-## Target Android API
+## 타깃 안드로이드 API
 -	Target Android API: 32 (min API 26)
 
-## References
+## 참고 자료
 -	https://firebase.google.com/docs/auth
 -	https://firebase.google.com/docs/auth/android/email-link-auth
 -	https://github.com/PhilJay/MPAndroidChart

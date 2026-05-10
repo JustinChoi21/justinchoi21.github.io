@@ -1,5 +1,7 @@
 ---
 title: projects
+lang: en
+ref: tab-projects
 icon: fas fa-code
 order: 2
 ---

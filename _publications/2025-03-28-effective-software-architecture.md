@@ -1,6 +1,7 @@
 ---
 title: Effective Software Architecture (translation)
 lang: en
+ref: pub-effective-software-architecture
 original_author: Oliver Goldman
 translator: Justin (Heechul) Choi
 publisher: Gilbeot (길벗)

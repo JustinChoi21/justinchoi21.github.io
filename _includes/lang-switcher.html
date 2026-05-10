@@ -6,6 +6,9 @@
   {%- assign other_lang = 'ko' -%}
   {%- if page_lang == 'ko' -%}{%- assign other_lang = 'en' -%}{%- endif -%}
   {%- assign translation = site.posts | where: 'ref', page.ref | where: 'lang', other_lang | first -%}
+  {%- if translation == nil -%}
+    {%- assign translation = site.tabs | where: 'ref', page.ref | where: 'lang', other_lang | first -%}
+  {%- endif -%}
   {%- if translation -%}
     {%- assign translation_url = translation.url | relative_url -%}
   {%- endif -%}
@@ -18,6 +21,8 @@
   aria-label="Switch Language"
   data-page-lang="{{ page_lang }}"
   data-translation-url="{{ translation_url }}"
+  data-en-home="{{ '/' | relative_url }}"
+  data-ko-home="{{ '/ko/' | relative_url }}"
 >
   <span class="lang-label" style="font-size: 0.85rem; font-weight: 600;">EN</span>
 </button>
@@ -32,22 +37,29 @@
     function getLang() {
       try { return localStorage.getItem(KEY) || 'en'; } catch (e) { return 'en'; }
     }
-    function setLang(v) {
+    function persist(v) {
       try { localStorage.setItem(KEY, v); } catch (e) {}
       document.documentElement.setAttribute('data-active-lang', v);
       label.textContent = v.toUpperCase();
     }
 
-    setLang(getLang());
+    persist(getLang());
 
     btn.addEventListener('click', function () {
       var current = getLang();
       var next = current === 'en' ? 'ko' : 'en';
       var pageLang = btn.getAttribute('data-page-lang');
       var transUrl = btn.getAttribute('data-translation-url');
-      setLang(next);
-      if (pageLang && pageLang !== next && transUrl) {
+      var enHome = btn.getAttribute('data-en-home');
+      var koHome = btn.getAttribute('data-ko-home');
+
+      persist(next);
+
+      if (pageLang === next) return;
+      if (transUrl) {
         window.location.href = transUrl;
+      } else {
+        window.location.href = (next === 'ko') ? koHome : enHome;
       }
     });
   })();

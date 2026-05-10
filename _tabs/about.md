@@ -1,5 +1,7 @@
 ---
 title: About Me
+lang: en
+ref: tab-about
 icon: fas fa-user
 order: 1
 ---

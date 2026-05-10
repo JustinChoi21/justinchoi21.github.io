@@ -1,5 +1,7 @@
 ---
 layout: publications
+lang: en
+ref: tab-publications
 icon: fas fa-book
 order: 3
 ---
