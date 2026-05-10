@@ -7,9 +7,11 @@ layout: page
 
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+{% assign cur_lang = page.lang | default: site.lang | default: 'en' %}
+{% assign archive_posts = site.posts | where: 'lang', cur_lang %}
 
 <div id="archives" class="pl-xl-3">
-  {% for post in site.posts %}
+  {% for post in archive_posts %}
     {% assign cur_year = post.date | date: '%Y' %}
 
     {% if cur_year != last_year %}

@@ -1,6 +1,7 @@
 ---
 title: Financial Assets Management Web Application Project
 lang: en
+ref: financial-assets-management-web-application-project
 author: 
 date: 2025-09-20 12:00:00 +0900
 categories: [Projects, ASP.NET, React]
