@@ -1,5 +1,12 @@
 <!-- The Top Bar -->
 
+{% assign tb_lang = include.lang | default: 'en' %}
+{% if tb_lang == 'ko' or tb_lang == 'ko-KR' %}
+  {% assign tb_home_url = '/ko/' | relative_url %}
+{% else %}
+  {% assign tb_home_url = '/' | relative_url %}
+{% endif %}
+
 <header id="topbar-wrapper" aria-label="Top Bar">
   <div
     id="topbar"
@@ -16,7 +23,7 @@
         {% for item in paths %}
           {% if forloop.first %}
             <span>
-              <a href="{{ '/' | relative_url }}">
+              <a href="{{ tb_home_url }}">
                 {{- site.data.locales[include.lang].tabs.home | capitalize -}}
               </a>
             </span>

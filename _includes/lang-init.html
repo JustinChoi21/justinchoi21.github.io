@@ -13,5 +13,17 @@
     var lang = stored || '{{ site.lang | default: "en" }}';
     if (lang !== 'en' && lang !== 'ko') lang = 'en';
     document.documentElement.setAttribute('data-active-lang', lang);
+
+    {%- assign base = site.baseurl | default: '' -%}
+    var base = '{{ base }}';
+    var enHome = base + '/';
+    var koHome = base + '/ko/';
+
+    var path = window.location.pathname;
+    if (lang === 'ko' && (path === enHome || path === enHome + 'index.html')) {
+      window.location.replace(koHome);
+    } else if (lang === 'en' && (path === koHome || path === koHome + 'index.html')) {
+      window.location.replace(enHome);
+    }
   })();
 </script>
