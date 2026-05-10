@@ -26,7 +26,7 @@ permalink: /ko/publications/
 - 링크: [https://product.kyobobook.co.kr/detail/S000216144754](https://product.kyobobook.co.kr/detail/S000216144754)
 
 
-### 개발자를 위한 영어
+### 개발자를 위한 영어 (개발자가 영어도 잘해야 하나요?)
 
 - 출판사: 길벗
 - 출간일: 2024년 2월 20일

@@ -1,5 +1,5 @@
 ---
-title: 개발자를 위한 영어
+title: 개발자를 위한 영어 (개발자가 영어도 잘해야 하나요?)
 lang: ko
 ref: pub-english-for-developers
 author: Justin (Heechul) Choi
