@@ -1,5 +1,5 @@
 ---
-title: 국제 송금 수수료 비교 플랫폼
+title: 해외 송금 수수료 비교 플랫폼
 lang: ko
 ref: international-remittance-fee-comparison-platform
 author:
@@ -12,7 +12,7 @@ permalink: /ko/posts/international-remittance-fee-comparison-platform/
 
 ## 1. 요약
 
-SendFeeCompare 는 미국과 한국 사이에서 송금할 때 가장 좋은 환율과 가장 낮은 수수료를 찾을 수 있도록 도와주는 송금 비교 플랫폼입니다. 여러 사업자의 실시간 환율을 자동으로 스크래핑해 수수료, 환율 마진, 진행 중인 프로모션까지 포함한 총비용을 한눈에 비교해 보여 줍니다.
+SendFeeCompare.com은 미국과 한국 사이에서 송금할 때 가장 좋은 환율과 가장 낮은 수수료를 찾을 수 있도록 도와주는 송금 비교 플랫폼입니다. 여러 사업자의 실시간 환율을 자동으로 스크래핑해 수수료, 환율 마진, 진행 중인 프로모션까지 포함한 총비용을 한눈에 비교해 보여 줍니다.
 
 - 프로젝트 후기(한국어): [미국-한국 해외 송금 수수료 비교 사이트 제작기](https://www.milemoa.com/bbs/board/12093281)
 
