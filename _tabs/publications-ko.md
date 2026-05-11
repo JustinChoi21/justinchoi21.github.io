@@ -8,7 +8,7 @@ order: 3
 permalink: /ko/publications/
 ---
 
-### 우리, 프로그래머 (번역)
+### 우리, 프로그래머들 (번역)
 
 - 원저자: Robert C. Martin
 - 옮긴이: 최희철 (Justin Choi)
