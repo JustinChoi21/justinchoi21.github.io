@@ -1,5 +1,5 @@
 ---
-title: Corporate Lectures & Consulting
+title: Consulting
 lang: en
 ref: tab-consulting
 icon: fas fa-building

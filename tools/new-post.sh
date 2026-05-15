@@ -51,7 +51,7 @@ if [[ -e "$FILE" ]]; then
   exit 1
 fi
 
-PROMPT="당신은 14년 경력의 풀스택 개발자 Justin Choi의 기술 블로그를 위한 글을 작성합니다.
+PROMPT="당신은 15년 경력의 풀스택 개발자 Justin Choi의 기술 블로그를 위한 글을 작성합니다.
 주제는 다음과 같습니다:
 
 $TOPIC

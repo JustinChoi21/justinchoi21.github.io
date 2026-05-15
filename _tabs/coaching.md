@@ -7,7 +7,7 @@ order: 4
 ---
 
 ### Overview
-As a full-stack engineer with 14+ years of experience and the author/translator of several developer books, I offer **personalized 1:1 coaching** tailored to where you are right now. Sessions range from one-off consultations to ongoing mentorship, covering technical depth, career direction, and the English communication skills that global collaboration demands.
+As a full-stack engineer with 15+ years of experience and the author/translator of several developer books, I offer **personalized 1:1 coaching** tailored to where you are right now. Sessions range from one-off consultations to ongoing mentorship, covering technical depth, career direction, and the English communication skills that global collaboration demands.
 
 ### Who It's For
 - Junior or mid-level developers shaping their full-stack growth path
