@@ -33,7 +33,7 @@ permalink: /ko/coaching/
 ### 문의하기
 아래 양식을 작성해 주세요. 영업일 기준 2~3일 내로 답변드립니다.
 
-<form action="https://formspree.io/f/YOUR_COACHING_FORM_ID" method="POST" class="mt-3">
+<form action="https://formspree.io/f/mlgzyozk" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[1:1 코칭 문의] 새 신청">
 
   <div class="mb-3">

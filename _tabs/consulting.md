@@ -33,7 +33,7 @@ I offer **in-house lectures**, **technical workshops**, and **software engineeri
 ### Request a Proposal
 Fill out the form below and I'll respond within 2–3 business days.
 
-<form action="https://formspree.io/f/YOUR_CONSULTING_FORM_ID" method="POST" class="mt-3">
+<form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[Corporate Lectures / Consulting] New inquiry">
 
   <div class="mb-3">

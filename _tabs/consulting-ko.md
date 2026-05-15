@@ -34,7 +34,7 @@ permalink: /ko/consulting/
 ### 문의하기
 아래 양식을 작성해 주세요. 영업일 기준 2~3일 내로 회신드립니다.
 
-<form action="https://formspree.io/f/YOUR_CONSULTING_FORM_ID" method="POST" class="mt-3">
+<form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[기업 강의/컨설팅 문의] 새 신청">
 
   <div class="mb-3">
