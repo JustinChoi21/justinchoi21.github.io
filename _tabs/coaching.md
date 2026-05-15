@@ -33,9 +33,12 @@ As a full-stack engineer with 15+ years of experience and the author/translator 
 ### Request a Session
 Fill out the form below. I typically respond within 2–3 business days.
 
-<form action="https://formspree.io/f/mlgzyozk" method="POST" class="mt-3">
+<form action="https://formspree.io/f/mlgzyozk" method="POST" class="mt-3"
+      data-inquiry-form
+      data-thanks-url="/thanks/"
+      data-sending-text="Sending..."
+      data-error-text="Submission failed. Please try again.">
   <input type="hidden" name="_subject" value="[1:1 Coaching] New inquiry">
-  <input type="hidden" name="_next" value="https://justinchoi21.github.io/thanks/">
 
   <div class="mb-3">
     <label for="coach-name-en" class="form-label">Name <span class="text-danger">*</span></label>
@@ -94,3 +97,5 @@ Fill out the form below. I typically respond within 2–3 business days.
 
   <button type="submit" class="btn btn-primary">Send inquiry</button>
 </form>
+
+<script src="/assets/js/inquiry-form.js" defer></script>
