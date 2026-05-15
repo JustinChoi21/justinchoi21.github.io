@@ -35,6 +35,7 @@ permalink: /ko/coaching/
 
 <form action="https://formspree.io/f/mlgzyozk" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[1:1 코칭 문의] 새 신청">
+  <input type="hidden" name="_next" value="https://justinchoi21.github.io/ko/thanks/">
 
   <div class="mb-3">
     <label for="coach-name" class="form-label">이름 <span class="text-danger">*</span></label>

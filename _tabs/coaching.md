@@ -35,6 +35,7 @@ Fill out the form below. I typically respond within 2–3 business days.
 
 <form action="https://formspree.io/f/mlgzyozk" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[1:1 Coaching] New inquiry">
+  <input type="hidden" name="_next" value="https://justinchoi21.github.io/thanks/">
 
   <div class="mb-3">
     <label for="coach-name-en" class="form-label">Name <span class="text-danger">*</span></label>
