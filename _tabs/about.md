@@ -21,3 +21,7 @@ order: 1
 ### Legal Status
 Legally authorized to work in the United States.
 
+### Inquiries
+- **1:1 Coaching** — [Apply here](/coaching/)
+- **Corporate Lectures & Consulting** — [Contact here](/consulting/)
+
