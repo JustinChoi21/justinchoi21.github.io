@@ -36,6 +36,7 @@ permalink: /ko/consulting/
 
 <form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[기업 강의/컨설팅 문의] 새 신청">
+  <input type="hidden" name="_next" value="https://justinchoi21.github.io/ko/thanks/">
 
   <div class="mb-3">
     <label for="biz-name" class="form-label">담당자 이름 <span class="text-danger">*</span></label>

@@ -35,6 +35,7 @@ Fill out the form below and I'll respond within 2–3 business days.
 
 <form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3">
   <input type="hidden" name="_subject" value="[Corporate Lectures / Consulting] New inquiry">
+  <input type="hidden" name="_next" value="https://justinchoi21.github.io/thanks/">
 
   <div class="mb-3">
     <label for="biz-name-en" class="form-label">Your name <span class="text-danger">*</span></label>
