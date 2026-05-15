@@ -34,9 +34,12 @@ permalink: /ko/consulting/
 ### 문의하기
 아래 양식을 작성해 주세요. 영업일 기준 2~3일 내로 회신드립니다.
 
-<form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3">
+<form action="https://formspree.io/f/meenbpdj" method="POST" class="mt-3"
+      data-inquiry-form
+      data-thanks-url="/ko/thanks/"
+      data-sending-text="전송 중..."
+      data-error-text="문의 전송에 실패했습니다. 잠시 후 다시 시도해 주세요.">
   <input type="hidden" name="_subject" value="[기업 강의/컨설팅 문의] 새 신청">
-  <input type="hidden" name="_next" value="https://justinchoi21.github.io/ko/thanks/">
 
   <div class="mb-3">
     <label for="biz-name" class="form-label">담당자 이름 <span class="text-danger">*</span></label>
@@ -102,3 +105,5 @@ permalink: /ko/consulting/
 
   <button type="submit" class="btn btn-primary">문의 보내기</button>
 </form>
+
+<script src="/assets/js/inquiry-form.js" defer></script>
