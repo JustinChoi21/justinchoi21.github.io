@@ -1,5 +1,5 @@
 ---
-title: 기업 강의/컨설팅
+title: 강의/컨설팅
 lang: ko
 ref: tab-consulting
 icon: fas fa-building
