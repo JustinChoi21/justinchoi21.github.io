@@ -7,28 +7,32 @@ order: 5
 ---
 
 ### Overview
-I offer **in-house lectures**, **technical workshops**, and **software engineering consulting** for companies and institutions. Engagements are tailored to your team's situation, drawing on 14+ years of full-stack experience and the topics covered in my books and translations (*"We, Programmers"*, *"Effective Software Architecture"*, *"English for Developers"*).
+I offer **in-house lectures**, **technical workshops**, and **software engineering & AX transformation consulting** for companies and institutions. Engagements are tailored to your organization and team, drawing on 15+ years of hands-on full-stack engineering experience.
 
 ### Topics
 - **Software architecture & clean code** — designing maintainable systems, code-quality culture
 - **Full-stack development** — Spring, .NET, Node.js, React, cloud (AWS / serverless)
 - **Enterprise systems integration** — SAP/ERP integration, manufacturing data pipelines, distributed systems
 - **Machine learning & AI in practice** — pragmatic ML/AI adoption strategies
-- **Developer English & global collaboration** — working with global teams; English for docs, reviews, meetings
+- **In-house AI training & AX transformation strategy** — customized consulting based on diagnostics
 
 ### Engagement Formats
 - **Single seminar** (1–2 hours) — focused talk on a chosen topic
 - **Workshop** (half-day / full-day / multi-session) — hands-on, discussion-based
 - **Long-term consulting** — architecture review, code/process audit, recurring advisory
 - **Online or on-site** (international travel by arrangement)
-- **Language**: English or Korean
 
 ### Background
+- **LG CNS** — software engineer & mobile architect (LG Electronics global logistics system, LG Chem mobile transformation project)
+- **Applied Optoelectronics Inc.** — full-stack software engineer (MES operations and AI automation projects)
+- **Onbizus LLC** — co-founder & CTO (AX consulting, Korean AI Study (KAIS) study lead)
+- M.S. in Computer Science, University of Massachusetts Boston
+
+### Books & Writing
 - *We, Programmers* by Robert C. Martin — translator (Gilbeot, 2026)
 - *Effective Software Architecture* by Oliver Goldman — translator (Gilbeot, 2025)
 - *English for Developers* — author (Gilbeot, 2024)
-- 7 years at LG CNS; full-stack engineer at Applied Optoelectronics Inc.; US-based freelance experience
-- M.S. in Computer Science, University of Massachusetts Boston
+- Yozm IT columns (Gomssine IT): [yozm.wishket.com/magazine/@wisizkai](https://yozm.wishket.com/magazine/@wisizkai)
 
 ### Request a Proposal
 Fill out the form below and I'll respond within 2–3 business days.
@@ -73,7 +77,7 @@ Fill out the form below and I'll respond within 2–3 business days.
 
   <div class="mb-3">
     <label for="biz-topic-en" class="form-label">Topic <span class="text-danger">*</span></label>
-    <input type="text" class="form-control" id="biz-topic-en" name="topic" required placeholder="e.g. Clean architecture, cloud migration, developer English">
+    <input type="text" class="form-control" id="biz-topic-en" name="topic" required placeholder="e.g. Clean architecture, cloud migration, in-house AI training / AX">
   </div>
 
   <div class="mb-3">

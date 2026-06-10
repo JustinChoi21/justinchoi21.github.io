@@ -8,28 +8,32 @@ permalink: /ko/consulting/
 ---
 
 ### 서비스 소개
-기업·기관을 대상으로 **사내 강의**, **기술 워크샵**, **소프트웨어 엔지니어링 컨설팅**을 제공합니다. 15년 차 풀스택 엔지니어의 현장 경험과 도서 저·역서(*"우리, 프로그래머들"*, *"이펙티브 소프트웨어 아키텍처"*, *"개발자를 위한 영어"*)의 주제를 바탕으로, 조직과 팀 상황에 맞춰 맞춤형으로 설계합니다.
+기업·기관을 대상으로 **사내 강의**, **기술 워크샵**, **소프트웨어 엔지니어링·AX 전환 컨설팅**을 제공합니다. 15년 차 풀스택 엔지니어의 현장 경험으로, 조직과 팀 상황에 맞춰 맞춤형으로 설계합니다.
 
 ### 강의 · 컨설팅 주제
 - **소프트웨어 아키텍처 & 클린 코드** — 유지보수 가능한 시스템 설계, 코드 품질 문화
 - **풀스택 개발 실무** — Spring, .NET, Node.js, React, 클라우드 (AWS / 서버리스)
 - **엔터프라이즈 시스템 통합** — SAP/ERP 연동, 제조 라인 데이터, 분산 시스템
 - **머신러닝 & AI 활용** — 실무 도입 관점의 ML/AI, 사내 적용 전략
-- **개발자 영어 & 글로벌 협업** — 글로벌 팀 협업, 문서·리뷰·미팅 영어
+- **사내 AI 교육 & AX 전환 전략** — 진단을 통한 맞춤형 컨설팅 제공
 
 ### 진행 형태
 - **단발 세미나** (1~2시간) — 특정 주제 강연
 - **워크샵** (반일 / 1일 / 시리즈) — 실습·토론 포함
 - **장기 컨설팅** — 아키텍처 검토, 코드/프로세스 진단, 정기 자문
 - **온라인 / 오프라인** 모두 가능 (해외 출장 사전 협의)
-- **언어**: 한국어 또는 영어
 
 ### 강사·저자 이력
+- **LG CNS** 소프트웨어 엔지니어 & 모바일 아키텍트 (LG 전자 글로벌 물류 시스템, LG 화학 모바일 전환 프로젝트)
+- **Applied Optoelectronics Inc.** 풀스택 소프트웨어 엔지니어 (MES 운영 및 AI 자동화 프로젝트)
+- **Onbizus LLC** 공동 창업 & CTO (AX 컨설팅, Korean AI Study(KAIS) 스터디 리드)
+- University of Massachusetts Boston 컴퓨터 사이언스 석사
+
+### 저서 및 기고
 - *우리, 프로그래머들* — Robert C. Martin 저, 번역 (길벗, 2026)
 - *이펙티브 소프트웨어 아키텍처* — Oliver Goldman 저, 번역 (길벗, 2025)
 - *개발자를 위한 영어* — 저서 (길벗, 2024)
-- LG CNS 7년, Applied Optoelectronics Inc. 풀스택 엔지니어, 미국 프리랜서 경력
-- University of Massachusetts Boston 컴퓨터 사이언스 석사
+- 요즘IT 기고 (곰씨네 IT): [yozm.wishket.com/magazine/@wisizkai](https://yozm.wishket.com/magazine/@wisizkai)
 
 ### 문의하기
 아래 양식을 작성해 주세요. 영업일 기준 2~3일 내로 회신드립니다.
@@ -74,7 +78,7 @@ permalink: /ko/consulting/
 
   <div class="mb-3">
     <label for="biz-topic" class="form-label">희망 주제 <span class="text-danger">*</span></label>
-    <input type="text" class="form-control" id="biz-topic" name="topic" required placeholder="예: 클린 아키텍처, 클라우드 마이그레이션, 개발자 영어">
+    <input type="text" class="form-control" id="biz-topic" name="topic" required placeholder="예: 클린 아키텍처, 클라우드 마이그레이션, 사내 AI 교육 / AX 전환">
   </div>
 
   <div class="mb-3">

@@ -7,27 +7,25 @@ order: 4
 ---
 
 ### Overview
-As a full-stack engineer with 15+ years of experience and the author/translator of several developer books, I offer **personalized 1:1 coaching** tailored to where you are right now. Sessions range from one-off consultations to ongoing mentorship, covering technical depth, career direction, and the English communication skills that global collaboration demands.
+As a full-stack engineer and AI engineer with 15+ years of experience and the author/translator of several developer books, I offer **personalized 1:1 coaching** tailored to where you are right now. Sessions range from one-off consultations to ongoing mentorship, covering technical depth, career direction, and what you need for global employment and collaboration.
 
 ### Who It's For
-- Junior or mid-level developers shaping their full-stack growth path
+- Junior or mid-level developers shaping their full-stack or AI engineering growth path
 - Engineers looking to level up in system design and architecture
 - Backend/web developers expanding into machine learning and AI
-- Anyone preparing for US employment or global remote work
+- Anyone exploring or weighing US employment and global collaboration
 - Readers of *"English for Developers"*, *"Effective Software Architecture"*, or *"We, Programmers"* who want to go deeper on the topics
 
 ### Topics
 - **Full-stack development** — Spring, .NET, Node.js, React, AWS / serverless
 - **System design & architecture** — distributed systems, cloud, enterprise integration (SAP, etc.)
 - **Machine learning & AI in practice** — applied ML/AI for working engineers
-- **Developer English & global collaboration** — docs, code review, meetings; US job prep
-- **Career coaching** — resume / portfolio review, transition strategy
+- **Career coaching** — resume / portfolio review, transition strategy, US job prep
 
 ### Format
 - **Mode**: 1:1 online (Zoom / Google Meet)
 - **Length**: 60 minutes per session (flexible)
 - **Cadence**: one-off / biweekly / weekly
-- **Language**: English or Korean
 - **Prep**: sharing questions, code, or your resume beforehand makes sessions more effective
 
 ### Request a Session
@@ -73,7 +71,6 @@ Fill out the form below. I typically respond within 2–3 business days.
       <option>Full-stack development</option>
       <option>System design / architecture</option>
       <option>Machine learning / AI</option>
-      <option>Developer English / global collaboration</option>
       <option>US employment / career</option>
       <option>Other</option>
     </select>
